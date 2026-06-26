@@ -1,0 +1,6 @@
+{
+  "name": "ChainGuard Escrow",
+  "description": "A decentralized escrow platform for freelancers and clients to securely lock, release, or refund contract funds with optional dispute mediation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
